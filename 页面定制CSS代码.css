@@ -330,3 +330,11 @@ div.commentform textarea {
 .feedbackCon {
     border-bottom: 1px solid #f0f0f0;
 }
+
+#cnblogs_post_body p {
+    font-size: 16px;
+}
+
+#cnblogs_post_body ul li {
+    font-size: 15px;
+}
