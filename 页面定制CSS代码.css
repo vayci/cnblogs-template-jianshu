@@ -338,3 +338,15 @@ div.commentform textarea {
 #cnblogs_post_body ul li {
     font-size: 15px;
 }
+
+
+#author_profile_follow {
+    float: right;
+    padding-right: 30px;
+    padding-bottom: 10px;
+}
+
+#author_profile_follow a {
+    color: #969696;
+    text-decoration: none;
+}
