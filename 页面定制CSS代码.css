@@ -18,6 +18,7 @@ body {
 }
 
 .postTitle a:hover{
+       color: #646464;
        text-decoration: underline;
 }
 
@@ -338,7 +339,6 @@ div.commentform textarea {
 #cnblogs_post_body ul li {
     font-size: 15px;
 }
-
 
 #author_profile_follow {
     float: right;
